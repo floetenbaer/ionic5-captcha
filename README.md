@@ -1,9 +1,10 @@
-# Arithmetic Captcha Component For Ionic 3
+# Arithmetic Captcha Component For Ionic 5
 
 This is an Ionic Angular component that ask arithmetic equation to user and check its result.
+This Version for Ionic 5 is based on oguzakpinar/ionic-captcha. 
 
 ### For Download 
-`npm install ionic-captcha`
+`npm install ionic5-captcha`
 
 ## Usage
 
